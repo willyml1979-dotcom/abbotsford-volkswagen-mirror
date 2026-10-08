@@ -1,6 +1,6 @@
 {
   "dealership": "Abbotsford Volkswagen",
-  "generated_at": "2026-10-04T11:12:07",
+  "generated_at": "2026-10-07T19:52:05",
   "vehicle_count": 219,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -24,6 +24,7 @@
       "vin": "KMHCU5AE5EU191421",
       "stock": "NUMBER",
       "color": "Triathlon Grey Metallic",
+      "trim": "GLS",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/702ddf016aaa.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2014-Hyundai-Accent-id14381580.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2014-Hyundai-Accent-id14381580.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -32,7 +33,7 @@
       "price_currency": "CAD",
       "year": 2014,
       "make": "Hyundai",
-      "model": "Accent GLSin Abbotsford",
+      "model": "Accent",
       "condition": "used"
     },
     {
@@ -56,6 +57,7 @@
       "vin": "5XYZUDLB5EG181033",
       "stock": "NUMBER",
       "color": "Twilight Black",
+      "trim": "Sport Premium",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/561cbe90ec44.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2014-Hyundai-Santa_Fe_Sport-id14449806.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2014-Hyundai-Santa_Fe_Sport-id14449806.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -65,7 +67,7 @@
       "odometer_km": 224000,
       "year": 2014,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Premiumin Abbotsford",
+      "model": "Santa Fe",
       "condition": "used"
     },
     {
@@ -73,6 +75,7 @@
       "vin": "5XYZUDLB5EG181033",
       "stock": 14449806,
       "color": "Twilight Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/8516c8e4928a.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2014-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2014-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -81,13 +84,14 @@
       "price_currency": "CAD",
       "year": 2014,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
+      "model": "Santa Fe",
       "condition": "used"
     },
     {
       "name": "2014 Volkswagen Passat Highlinein Abbotsford",
       "vin": "1VWCH7A33EC049073",
       "stock": "NUMBER",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/dee097d3118e.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2014-Volkswagen-Passat-id14435002.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2014-Volkswagen-Passat-id14435002.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -97,7 +101,7 @@
       "odometer_km": 114000,
       "year": 2014,
       "make": "Volkswagen",
-      "model": "Passat Highlinein Abbotsford",
+      "model": "Passat",
       "condition": "used"
     },
     {
@@ -131,6 +135,7 @@
       "vin": "1C6RR7FTXFS693557",
       "stock": "NUMBER",
       "color": "Maximum Steel Metallic",
+      "trim": "ST",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/2427ad47c167.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2015-RAM-1500-id14381581.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2015-RAM-1500-id14381581.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -140,7 +145,7 @@
       "odometer_km": 243948,
       "year": 2015,
       "make": "RAM",
-      "model": "1500 STin Abbotsford",
+      "model": "1500",
       "condition": "used"
     },
     {
@@ -163,6 +168,7 @@
       "name": "2016 Jeep Renegade Northin Abbotsford",
       "vin": "ZACCJBBT4GPD30595",
       "stock": "NUMBER",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/b0b8ff11bc89.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2016-Jeep-Renegade-id14407885.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2016-Jeep-Renegade-id14407885.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,7 +178,7 @@
       "odometer_km": 91788,
       "year": 2016,
       "make": "Jeep",
-      "model": "Renegade Northin Abbotsford",
+      "model": "Renegade",
       "condition": "used"
     },
     {
@@ -194,6 +200,7 @@
       "name": "2016 Volkswagen Golf Sin Abbotsford",
       "vin": "3VW117AU9GM048175",
       "stock": "NUMBER",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/d0471ea52eb7.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2016-Volkswagen-Golf-id14393757.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2016-Volkswagen-Golf-id14393757.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -203,7 +210,7 @@
       "odometer_km": 140670,
       "year": 2016,
       "make": "Volkswagen",
-      "model": "Golf Sin Abbotsford",
+      "model": "Golf",
       "condition": "used"
     },
     {
@@ -256,6 +263,7 @@
       "name": "2017 Honda Accord Sedan Sportin Abbotsford",
       "vin": "1HGCR2F6XHA806655",
       "stock": "NUMBER",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/17b684840529.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2017-Honda-Accord_Sedan-id14371976.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2017-Honda-Accord_Sedan-id14371976.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -265,7 +273,7 @@
       "odometer_km": 187132,
       "year": 2017,
       "make": "Honda",
-      "model": "Accord Sedan Sportin Abbotsford",
+      "model": "Accord",
       "condition": "used"
     },
     {
@@ -288,6 +296,7 @@
       "vin": "3C4NJCBB5HT668491",
       "stock": "NUMBER",
       "color": "Billet Metallic",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/cb76fc0c9d3d.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2017-Jeep-Compass-id14366805.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2017-Jeep-Compass-id14366805.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -297,7 +306,7 @@
       "odometer_km": 93990,
       "year": 2017,
       "make": "Jeep",
-      "model": "Compass Northin Abbotsford",
+      "model": "Compass",
       "condition": "used"
     },
     {
@@ -320,6 +329,7 @@
       "name": "2017 Kia Sorento LX-AWDin Abbotsford",
       "vin": "5XYPGDA37HG209476",
       "stock": "NUMBER",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/85c130579f1e.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2017-Kia-Sorento-id14222660.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2017-Kia-Sorento-id14222660.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -329,7 +339,7 @@
       "odometer_km": 115035,
       "year": 2017,
       "make": "Kia",
-      "model": "Sorento LX-AWDin Abbotsford",
+      "model": "Sorento",
       "condition": "used"
     },
     {
@@ -414,13 +424,14 @@
       "name": "2019 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT1KEG27225",
       "stock": 14407884,
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/8d306ea75e23.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2019-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2019-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:23:27",
       "year": 2019,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
+      "model": "Super Duty",
       "condition": "used"
     },
     {
@@ -459,6 +470,7 @@
       "name": "2019 Volkswagen Atlas Comfortlinein Abbotsford",
       "vin": "1V2LR2CA1KC571709",
       "stock": "NUMBER",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/3c3909119a33.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Atlas-id14244953.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Atlas-id14244953.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -468,7 +480,7 @@
       "odometer_km": 129386,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Atlas Comfortlinein Abbotsford",
+      "model": "Atlas",
       "condition": "used"
     },
     {
@@ -490,19 +502,21 @@
       "name": "2019 Volkswagen Beetle Convertible ",
       "vin": "3VWTDAAT3KM500067",
       "stock": 14456771,
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/846326d01f4a.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Beetle_Convertible.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Beetle_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T16:11:39",
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Beetle Convertible",
+      "model": "Beetle",
       "condition": "used"
     },
     {
       "name": "2019 Volkswagen Jetta Execlinein Abbotsford",
       "vin": "3VWG57BU4KM065052",
       "stock": "NUMBER",
+      "trim": "Execline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/1d7d88dbb6de.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Jetta-id14222620.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Jetta-id14222620.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,13 +526,14 @@
       "odometer_km": 87500,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Jetta Execlinein Abbotsford",
+      "model": "Jetta",
       "condition": "used"
     },
     {
       "name": "2019 Volkswagen Jetta Comfortlinein Abbotsford",
       "vin": "3VWN57BU0KM008113",
       "stock": "NUMBER",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/260f35c82569.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Jetta-id14227255.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Jetta-id14227255.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -528,13 +543,14 @@
       "odometer_km": 61575,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "used"
     },
     {
       "name": "2019 Volkswagen Jetta Execlinein Abbotsford",
       "vin": "3VWG57BU5KM100794",
       "stock": "NUMBER",
+      "trim": "Execline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e6229bc28747.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Jetta-id14381575.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Jetta-id14381575.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -544,7 +560,7 @@
       "odometer_km": 210000,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Jetta Execlinein Abbotsford",
+      "model": "Jetta",
       "condition": "used"
     },
     {
@@ -566,6 +582,7 @@
       "name": "2019 Volkswagen Tiguan Highlinein Abbotsford",
       "vin": "3VV4B7AX0KM136565",
       "stock": "NUMBER",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e7c46cb6ac09.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Tiguan-id14222629.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2019-Volkswagen-Tiguan-id14222629.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -575,7 +592,7 @@
       "odometer_km": 134060,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Tiguan Highlinein Abbotsford",
+      "model": "Tiguan",
       "condition": "used"
     },
     {
@@ -673,6 +690,7 @@
       "vin": "2LMPJ8KP7LBL12629",
       "stock": "NUMBER",
       "color": "Maroon.",
+      "trim": "Reserve",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/bf65e6fada9b.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2020-Lincoln-Nautilus-id14409887.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2020-Lincoln-Nautilus-id14409887.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,7 +700,7 @@
       "odometer_km": 98575,
       "year": 2020,
       "make": "Lincoln",
-      "model": "Nautilus Reservein Abbotsford",
+      "model": "Nautilus",
       "condition": "used"
     },
     {
@@ -751,6 +769,7 @@
       "vin": "1C4HJXDN6MW627254",
       "stock": "NUMBER",
       "color": "Bright White",
+      "trim": "Unlimited Islander",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/7a703a3ae49d.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2021-Jeep-Wrangler-id14252132.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2021-Jeep-Wrangler-id14252132.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -760,7 +779,7 @@
       "odometer_km": 96780,
       "year": 2021,
       "make": "Jeep",
-      "model": "Wrangler Unlimited Islanderin Abbotsford",
+      "model": "Wrangler",
       "condition": "used"
     },
     {
@@ -845,6 +864,7 @@
       "name": "2021 Volkswagen Atlas Cross Sport Execlinein Abbotsford",
       "vin": "1V2FE2CA4MC221762",
       "stock": "NUMBER",
+      "trim": "Execline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/65ac32c9bb71.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2021-Volkswagen-Atlas_Cross_Sport-id14306206.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2021-Volkswagen-Atlas_Cross_Sport-id14306206.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -854,7 +874,7 @@
       "odometer_km": 184180,
       "year": 2021,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Execlinein Abbotsford",
+      "model": "Atlas Cross Sport",
       "condition": "used"
     },
     {
@@ -967,6 +987,7 @@
       "name": "2022 Toyota Corolla Hatchbackin Abbotsford",
       "vin": "JTNK4MBE9N3177838",
       "stock": "NUMBER",
+      "trim": "Hatchback",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/dad27a7ace78.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2022-Toyota-Corolla_Hatchback-id14381591.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2022-Toyota-Corolla_Hatchback-id14381591.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -976,7 +997,7 @@
       "odometer_km": 32600,
       "year": 2022,
       "make": "Toyota",
-      "model": "Corolla Hatchbackin Abbotsford",
+      "model": "Corolla",
       "condition": "used"
     },
     {
@@ -1028,6 +1049,7 @@
       "name": "2022 Volkswagen Golf GTI Performancein Abbotsford",
       "vin": "WVWV87CD5NW123867",
       "stock": "NUMBER",
+      "trim": "Performance",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/3deda7c1ef9c.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2022-Volkswagen-Golf_GTI-id14387612.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2022-Volkswagen-Golf_GTI-id14387612.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1037,7 +1059,7 @@
       "odometer_km": 158167,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Golf GTI Performancein Abbotsford",
+      "model": "Golf GTI",
       "condition": "used"
     },
     {
@@ -1059,6 +1081,7 @@
       "name": "2022 Volkswagen Taos Trendlinein Abbotsford",
       "vin": "3VVAX7B23NM081539",
       "stock": "NUMBER",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/cb1e642c381b.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2022-Volkswagen-Taos-id14367145.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2022-Volkswagen-Taos-id14367145.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1068,7 +1091,7 @@
       "odometer_km": 73265,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Taos Trendlinein Abbotsford",
+      "model": "Taos",
       "condition": "used"
     },
     {
@@ -1350,6 +1373,7 @@
       "name": "2023 Volkswagen Tiguan Highline R-Linein Abbotsford",
       "vin": "3VV4B7AX0PM048736",
       "stock": "NUMBER",
+      "trim": "Highline R-Line",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/cfe476e04b3c.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2023-Volkswagen-Tiguan-id14381045.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2023-Volkswagen-Tiguan-id14381045.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1359,7 +1383,7 @@
       "odometer_km": 107789,
       "year": 2023,
       "make": "Volkswagen",
-      "model": "Tiguan Highline R-Linein Abbotsford",
+      "model": "Tiguan",
       "condition": "used"
     },
     {
@@ -1549,6 +1573,7 @@
       "name": "2024 Nissan Rogue SV Moonroofin Abbotsford",
       "vin": "JN8BT3BB8RW429577",
       "stock": "NUMBER",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/073b4558c3ba.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2024-Nissan-Rogue-id13931958.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2024-Nissan-Rogue-id13931958.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1558,7 +1583,7 @@
       "odometer_km": 32525,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue SV Moonroofin Abbotsford",
+      "model": "Rogue",
       "condition": "used"
     },
     {
@@ -1699,6 +1724,7 @@
       "name": "2024 Volkswagen Tiguan 4Motionin Abbotsford",
       "vin": "3VV2B7AX6RM123613",
       "stock": "NUMBER",
+      "trim": "4Motion",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/9578f7bdb14e.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2024-Volkswagen-Tiguan-id13955039.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2024-Volkswagen-Tiguan-id13955039.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1708,7 +1734,7 @@
       "odometer_km": 61882,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Tiguan 4Motionin Abbotsford",
+      "model": "Tiguan",
       "condition": "used"
     },
     {
@@ -1865,6 +1891,7 @@
       "name": "2025 Chevrolet Trax LTin Abbotsford",
       "vin": "KL77LHE28SC282272",
       "stock": "NUMBER",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/2ed43ff4ff16.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2025-Chevrolet-Trax-id14293835.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2025-Chevrolet-Trax-id14293835.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1874,7 +1901,7 @@
       "odometer_km": 15204,
       "year": 2025,
       "make": "Chevrolet",
-      "model": "Trax LTin Abbotsford",
+      "model": "Trax",
       "condition": "used"
     },
     {
@@ -1912,6 +1939,7 @@
       "vin": "KMHRC8A36SU364422",
       "stock": "NUMBER",
       "color": "Atlas White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/b898dd5c0df2.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2025-Hyundai-Venue-id14400240.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2025-Hyundai-Venue-id14400240.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1921,7 +1949,7 @@
       "odometer_km": 35159,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Venue Preferredin Abbotsford",
+      "model": "Venue",
       "condition": "used"
     },
     {
@@ -2159,6 +2187,7 @@
       "name": "2025 Volkswagen Jetta Premiumin Abbotsford",
       "vin": "3VWEX7BU1SM072901",
       "stock": "NUMBER",
+      "trim": "Premium",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/876656957e3f.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2025-Volkswagen-Jetta-id14232893.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2025-Volkswagen-Jetta-id14232893.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2168,13 +2197,14 @@
       "odometer_km": 36387,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Jetta Premiumin Abbotsford",
+      "model": "Jetta",
       "condition": "used"
     },
     {
       "name": "2025 Volkswagen Jetta Comfortlinein Abbotsford",
       "vin": "3VWEX7BUXSM087252",
       "stock": "NUMBER",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/93863eb7dacc.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2025-Volkswagen-Jetta-id14232894.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2025-Volkswagen-Jetta-id14232894.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2184,7 +2214,7 @@
       "odometer_km": 25509,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "used"
     },
     {
@@ -2206,6 +2236,7 @@
       "name": "2025 Volkswagen Taos 4Motionin Abbotsford",
       "vin": "3VV8C7B29SM027720",
       "stock": "NUMBER",
+      "trim": "4Motion",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f0fe7ac9dc1c.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2025-Volkswagen-Taos-id12831117.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2025-Volkswagen-Taos-id12831117.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2215,13 +2246,14 @@
       "odometer_km": 1945,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos 4Motionin Abbotsford",
+      "model": "Taos",
       "condition": "used"
     },
     {
       "name": "2025 Volkswagen Taos 4Motionin Abbotsford",
       "vin": "3VVUC7B28SM060674",
       "stock": "NUMBER",
+      "trim": "4Motion",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/0a8ca81a94bd.html",
       "source_url": "https://www.abbotsfordvw.ca/used/2025-Volkswagen-Taos-id14030427.html",
       "dealer_url": "https://www.abbotsfordvw.ca/used/2025-Volkswagen-Taos-id14030427.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2231,7 +2263,7 @@
       "odometer_km": 24105,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos 4Motionin Abbotsford",
+      "model": "Taos",
       "condition": "used"
     },
     {
@@ -2268,16 +2300,17 @@
       "name": "2025 Volkswagen Taos Comfortlinein Abbotsford",
       "vin": "3VVVC7B24SM025487",
       "stock": "NUMBER",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/f75209926817.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2025-Volkswagen-Taos-id13064931.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2025-Volkswagen-Taos-id13064931.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:32:42",
+      "last_verified": "2026-10-07T19:51:20",
       "price": 36720.0,
       "price_currency": "CAD",
       "odometer_km": 6200,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -2486,6 +2519,7 @@
       "name": "2026 Volkswagen Jetta GLIin Abbotsford",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GLI",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/259476e6dc19.html",
       "source_url": "https://www.abbotsfordvw.ca/new/2026-Volkswagen-Jetta_GLI.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/2026-Volkswagen-Jetta_GLI.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2494,7 +2528,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta GLIin Abbotsford",
+      "model": "Jetta",
       "condition": "used"
     },
     {
@@ -2626,6 +2660,7 @@
       "name": "2026 Volkswagen Jetta GLIin Abbotsford",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GLI",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/259476e6dc19.html",
       "source_url": "https://www.abbotsfordvw.ca/new/2026-Volkswagen-Jetta_GLI.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/2026-Volkswagen-Jetta_GLI.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2634,7 +2669,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta GLIin Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2674,15 +2709,16 @@
       "vin": "3VWSW7BU0TM041341",
       "stock": "NUMBER",
       "color": "Monterey Blue Pearl",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/e7f70823727a.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13491360.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13491360.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:32:54",
+      "last_verified": "2026-10-07T19:51:33",
       "price": 34263.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2690,6 +2726,7 @@
       "vin": "3VWEW7BU9TM044073",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/0bfaa18eb255.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13532266.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13532266.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2698,7 +2735,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2706,6 +2743,7 @@
       "vin": "3VWEW7BU5TM044989",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/d1098c883fb0.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13559642.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13559642.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2714,7 +2752,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2722,6 +2760,7 @@
       "vin": "3VWEW7BUXTM046169",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/01e5386d3f0f.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13565060.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13565060.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2730,7 +2769,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2738,6 +2777,7 @@
       "vin": "3VWEW7BU2TM045159",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7759ec67f84a.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13576662.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13576662.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2746,7 +2786,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2754,6 +2794,7 @@
       "vin": "3VWCW7BU4TM048037",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/9947b9a0e8f9.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13639623.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13639623.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2762,7 +2803,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2770,15 +2811,16 @@
       "vin": "3VWGW7BU2TM049415",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/ae556f31dead.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13659981.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13659981.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:33:05",
+      "last_verified": "2026-10-07T19:51:45",
       "price": 35683.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Highlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2786,6 +2828,7 @@
       "vin": "3VWSW7BU2TM053930",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c4e24eb33e69.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13701444.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13701444.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2794,7 +2837,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2802,15 +2845,16 @@
       "vin": "3VWEW7BU4TM051142",
       "stock": "NUMBER",
       "color": "Oryx White Pearl",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/cd501e65a431.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13709603.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13709603.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:28:58",
+      "last_verified": "2026-10-07T19:48:38",
       "price": 32083.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2818,15 +2862,16 @@
       "vin": "3VWGW7BU2TM054744",
       "stock": "NUMBER",
       "color": "Oryx White Pearl",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/f4daee221e7e.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13771236.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13771236.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:33:20",
+      "last_verified": "2026-10-07T19:51:57",
       "price": 37083.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Highlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2834,15 +2879,16 @@
       "vin": "3VWEW7BU5TM064255",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/d5507a7bb08a.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13879305.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13879305.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:29:12",
+      "last_verified": "2026-10-07T19:48:51",
       "price": 32583.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2850,6 +2896,7 @@
       "vin": "3VWGW7BU2TM064786",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/b22720665819.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13886321.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13886321.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2858,7 +2905,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Highlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2866,15 +2913,16 @@
       "vin": "3VWSW7BU9TM066271",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/1d1faecb29d7.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13933642.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13933642.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:29:36",
+      "last_verified": "2026-10-07T19:49:03",
       "price": 32883.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2882,6 +2930,7 @@
       "vin": "3VWGW7BU3TM064862",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/798c3768c0c0.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13933647.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13933647.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2890,7 +2939,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Highlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2898,15 +2947,16 @@
       "vin": "3VWCW7BU2TM063166",
       "stock": "NUMBER",
       "color": "Pyrite Silver Metallic",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/0c719de7f93f.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13938422.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13938422.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:29:47",
+      "last_verified": "2026-10-07T19:49:15",
       "price": 30583.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2914,15 +2964,16 @@
       "vin": "3VWCW7BUXTM063058",
       "stock": "NUMBER",
       "color": "Pyrite Silver Metallic",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/388ad517148b.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13938423.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13938423.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:29:59",
+      "last_verified": "2026-10-07T19:49:27",
       "price": 30583.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2930,15 +2981,16 @@
       "vin": "3VWCW7BU7TM063227",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/59d0af55733a.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13943828.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13943828.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:30:12",
+      "last_verified": "2026-10-07T19:49:40",
       "price": 30583.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2946,15 +2998,16 @@
       "vin": "3VWSW7BU7TM062347",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/e57aebb009c5.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13955033.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Jetta-id13955033.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:30:26",
+      "last_verified": "2026-10-07T19:49:52",
       "price": 34183.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -2962,6 +3015,7 @@
       "vin": "3VV8C7B21TM046232",
       "stock": "NUMBER",
       "color": "Pure White",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/a54bc50da556.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13470900.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13470900.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2970,7 +3024,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendlinein Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -2978,6 +3032,7 @@
       "vin": "3VV8C7B23TM049942",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/de92fe9296ed.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13532261.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13532261.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2986,7 +3041,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendlinein Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -2994,6 +3049,7 @@
       "vin": "3VV8C7B25TM050770",
       "stock": "NUMBER",
       "color": "Pure White",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/59a787f8abde.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13546900.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13546900.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3002,7 +3058,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendlinein Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -3010,6 +3066,7 @@
       "vin": "3VV8C7B21TM051074",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/39c4dc407d40.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13546902.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13546902.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3018,7 +3075,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendlinein Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -3026,6 +3083,7 @@
       "vin": "3VV8C7B25TM052552",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/6960954e729c.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13591555.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13591555.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3034,7 +3092,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendlinein Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -3042,6 +3100,7 @@
       "vin": "3VV8C7B28TM057745",
       "stock": "NUMBER",
       "color": "Pure White",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7c26703860ac.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13632031.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id13632031.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3050,7 +3109,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendlinein Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -3058,6 +3117,7 @@
       "vin": "3VV2C7B21TM040081",
       "stock": "NUMBER",
       "color": "Pure White",
+      "trim": "Comfortline Black Edition",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/9060f130a2f1.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id14222617.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id14222617.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3066,7 +3126,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black Editionin Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -3074,6 +3134,7 @@
       "vin": "3VVVC7B23TM071250",
       "stock": "NUMBER",
       "color": "Alpine Grey",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/935a31d7dc35.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id14457154.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Taos-id14457154.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3082,7 +3143,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -3090,6 +3151,7 @@
       "vin": "3VVBR7RM2TM093989",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c1361ad6edc0.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13695994.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13695994.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3098,7 +3160,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Abbotsford",
+      "model": "Tiguan",
       "condition": "new"
     },
     {
@@ -3106,6 +3168,7 @@
       "vin": "3VVBR7RM8TM098713",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/375a4d72b164.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13753880.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13753880.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3114,7 +3177,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Abbotsford",
+      "model": "Tiguan",
       "condition": "new"
     },
     {
@@ -3122,6 +3185,7 @@
       "vin": "3VVBR7RM6TM099150",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7aec2323c2f0.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13753885.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2026-Volkswagen-Tiguan-id13753885.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3130,7 +3194,7 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Abbotsford",
+      "model": "Tiguan",
       "condition": "new"
     },
     {
@@ -3304,15 +3368,16 @@
       "vin": "3VWSW7BU2VM000390",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/ee39eb555a37.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Jetta-id14269132.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Jetta-id14269132.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:30:44",
+      "last_verified": "2026-10-07T19:50:17",
       "price": 32795.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -3320,15 +3385,16 @@
       "vin": "3VWSW7BU9VM001505",
       "stock": "NUMBER",
       "color": "Deep Black Pearl",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/fd281d0e89fb.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Jetta-id14269133.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Jetta-id14269133.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:31:05",
+      "last_verified": "2026-10-07T19:50:37",
       "price": 32795.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -3336,15 +3402,16 @@
       "vin": "3VWSW7BU9VM001343",
       "stock": "NUMBER",
       "color": "Oryx White Pearl",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/b6b36369e172.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Jetta-id14288625.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Jetta-id14288625.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:31:24",
+      "last_verified": "2026-10-07T19:50:56",
       "price": 33295.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -3352,15 +3419,16 @@
       "vin": "3VWSW7BU7VM007819",
       "stock": "NUMBER",
       "color": "Platinum Gray Metallic",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/dbbbd0cde3d6.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Jetta-id14400881.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Jetta-id14400881.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:31:36",
+      "last_verified": "2026-10-07T19:51:09",
       "price": 32795.0,
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Abbotsford",
+      "model": "Jetta",
       "condition": "new"
     },
     {
@@ -3368,6 +3436,7 @@
       "vin": "3VV2D7B24VM007754",
       "stock": "NUMBER",
       "color": "Alpine Gray",
+      "trim": "Comfortline Black Edition",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c2ac41a6aef0.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Taos-id14306784.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Taos-id14306784.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3376,7 +3445,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black Editionin Abbotsford",
+      "model": "Taos",
       "condition": "new"
     },
     {
@@ -3384,6 +3453,7 @@
       "vin": "3VV2D7B24VM008371",
       "stock": "NUMBER",
       "color": "Pure White With Black Roof",
+      "trim": "Comfortline Black Edition",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/8c64b5ed17d2.html",
       "source_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Taos-id14342520.html",
       "dealer_url": "https://www.abbotsfordvw.ca/new/inventory/2027-Volkswagen-Taos-id14342520.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3392,7 +3462,7 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black Editionin Abbotsford",
+      "model": "Taos",
       "condition": "new"
     }
   ]
