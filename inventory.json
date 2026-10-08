@@ -1,6 +1,6 @@
 {
   "dealership": "Abbotsford Volkswagen",
-  "generated_at": "2026-10-07T19:52:05",
+  "generated_at": "2026-10-07T20:23:55",
   "vehicle_count": 219,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -17,7 +17,9 @@
       "year": 2011,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Accent GLSin Abbotsford",
@@ -34,7 +36,9 @@
       "year": 2014,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Accent ",
@@ -50,7 +54,9 @@
       "year": 2014,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Santa Fe Sport Premiumin Abbotsford",
@@ -68,7 +74,9 @@
       "year": 2014,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Santa Fe Sport ",
@@ -85,7 +93,9 @@
       "year": 2014,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2014 Volkswagen Passat Highlinein Abbotsford",
@@ -102,7 +112,9 @@
       "year": 2014,
       "make": "Volkswagen",
       "model": "Passat",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2014 Volkswagen Passat ",
@@ -115,7 +127,9 @@
       "year": 2014,
       "make": "Volkswagen",
       "model": "Passat",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2015 GMC Acadia ",
@@ -128,7 +142,9 @@
       "year": 2015,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 1500 STin Abbotsford",
@@ -146,7 +162,9 @@
       "year": 2015,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 1500 ",
@@ -162,7 +180,9 @@
       "year": 2015,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Jeep Renegade Northin Abbotsford",
@@ -179,7 +199,9 @@
       "year": 2016,
       "make": "Jeep",
       "model": "Renegade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Jeep Renegade ",
@@ -194,7 +216,9 @@
       "year": 2016,
       "make": "Jeep",
       "model": "Renegade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Volkswagen Golf Sin Abbotsford",
@@ -211,7 +235,9 @@
       "year": 2016,
       "make": "Volkswagen",
       "model": "Golf",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Volkswagen Golf ",
@@ -226,7 +252,9 @@
       "year": 2016,
       "make": "Volkswagen",
       "model": "Golf",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Volkswagen Tiguanin Abbotsford",
@@ -242,7 +270,9 @@
       "year": 2016,
       "make": "Volkswagen",
       "model": "Tiguanin Abbotsford",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2016 Volkswagen Tiguan ",
@@ -257,7 +287,9 @@
       "year": 2016,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Accord Sedan Sportin Abbotsford",
@@ -274,7 +306,9 @@
       "year": 2017,
       "make": "Honda",
       "model": "Accord",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Accord Sedan ",
@@ -289,7 +323,9 @@
       "year": 2017,
       "make": "Honda",
       "model": "Accord Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Compass Northin Abbotsford",
@@ -307,7 +343,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Compass ",
@@ -323,7 +361,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sorento LX-AWDin Abbotsford",
@@ -340,7 +380,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sorento ",
@@ -355,7 +397,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2018 Land Rover Land Rover Discovery Sport SEin Abbotsford",
@@ -371,7 +415,9 @@
       "year": 2018,
       "make": "Land",
       "model": "Rover Land Rover Discovery Sport SEin Abbotsford",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2018 Mazda3 Sport TOURin Abbotsford",
@@ -387,7 +433,9 @@
       "year": 2018,
       "make": "Mazda3",
       "model": "Sport TOURin Abbotsford",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Golfin Abbotsford",
@@ -403,7 +451,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Golfin Abbotsford",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Golf ",
@@ -418,7 +468,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Golf",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Super Duty F-350 SRW ",
@@ -432,7 +484,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee ",
@@ -448,7 +502,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Mazda3 Sport GSin Abbotsford",
@@ -464,7 +520,9 @@
       "year": 2019,
       "make": "Mazda3",
       "model": "Sport GSin Abbotsford",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Atlas Comfortlinein Abbotsford",
@@ -481,7 +539,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Atlas ",
@@ -496,7 +556,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Beetle Convertible ",
@@ -510,7 +572,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Beetle",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta Execlinein Abbotsford",
@@ -527,7 +591,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -544,7 +610,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta Execlinein Abbotsford",
@@ -561,7 +629,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta ",
@@ -576,7 +646,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Tiguan Highlinein Abbotsford",
@@ -593,7 +665,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Tiguan ",
@@ -608,7 +682,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta ",
@@ -623,7 +699,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Audi Q5 ",
@@ -638,7 +716,9 @@
       "year": 2020,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Chrysler Pacifica ",
@@ -654,7 +734,9 @@
       "year": 2020,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Cherokee ",
@@ -668,7 +750,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Lexus RX ",
@@ -683,7 +767,9 @@
       "year": 2020,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Lincoln Nautilus Reservein Abbotsford",
@@ -701,7 +787,9 @@
       "year": 2020,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Lincoln Nautilus ",
@@ -716,7 +804,9 @@
       "year": 2020,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Tesla Model 3 ",
@@ -731,7 +821,9 @@
       "year": 2020,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Tiguanin Abbotsford",
@@ -747,7 +839,9 @@
       "year": 2020,
       "make": "Volkswagen",
       "model": "Tiguanin Abbotsford",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Tiguan ",
@@ -762,7 +856,9 @@
       "year": 2020,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler Unlimited Islanderin Abbotsford",
@@ -780,7 +876,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -796,7 +894,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -812,7 +912,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -828,7 +930,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Tesla Model Y ",
@@ -843,7 +947,9 @@
       "year": 2021,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas ",
@@ -858,7 +964,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas Cross Sport Execlinein Abbotsford",
@@ -875,7 +983,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas Cross Sport ",
@@ -890,7 +1000,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas Cross Sport ",
@@ -905,7 +1017,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Buick Envision ",
@@ -920,7 +1034,9 @@
       "year": 2022,
       "make": "Buick",
       "model": "Envision",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Silverado 1500 ",
@@ -935,7 +1051,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-30 ",
@@ -950,7 +1068,9 @@
       "year": 2022,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -966,7 +1086,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model Y ",
@@ -981,7 +1103,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Corolla Hatchbackin Abbotsford",
@@ -998,7 +1122,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Corolla Hatchback ",
@@ -1013,7 +1139,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Corolla Hatchback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Atlas ",
@@ -1029,7 +1157,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Atlas Cross Sport ",
@@ -1043,7 +1173,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Golf GTI Performancein Abbotsford",
@@ -1060,7 +1192,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Golf GTI ",
@@ -1075,7 +1209,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Taos Trendlinein Abbotsford",
@@ -1092,7 +1228,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Taos ",
@@ -1107,7 +1245,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Tiguan ",
@@ -1120,7 +1260,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Atlas ",
@@ -1136,7 +1278,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Tiguan ",
@@ -1151,7 +1295,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Audi Q5 ",
@@ -1167,7 +1313,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Audi Q7 ",
@@ -1181,7 +1329,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Audi Q5 ",
@@ -1197,7 +1347,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "Q5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X5 ",
@@ -1213,7 +1365,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Pacifica ",
@@ -1229,7 +1383,9 @@
       "year": 2023,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Chrysler Pacifica ",
@@ -1245,7 +1401,9 @@
       "year": 2023,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee ",
@@ -1261,7 +1419,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Kia K5 ",
@@ -1276,7 +1436,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "K5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Mitsubishi Outlander ",
@@ -1289,7 +1451,9 @@
       "year": 2023,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -1305,7 +1469,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -1321,7 +1487,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota RAV4 ",
@@ -1336,7 +1504,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Atlas ",
@@ -1352,7 +1522,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Atlas Cross Sport ",
@@ -1367,7 +1539,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Tiguan Highline R-Linein Abbotsford",
@@ -1384,7 +1558,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Tiguan ",
@@ -1399,7 +1575,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Atlas ",
@@ -1415,7 +1593,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Tiguan ",
@@ -1430,7 +1610,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Audi Q5 ",
@@ -1445,7 +1627,9 @@
       "year": 2024,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Audi Q5 ",
@@ -1460,7 +1644,9 @@
       "year": 2024,
       "make": "Audi",
       "model": "Q5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 BMW X7 ",
@@ -1475,7 +1661,9 @@
       "year": 2024,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Silverado 3500HD ",
@@ -1490,7 +1678,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Escape ",
@@ -1505,7 +1695,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 1500 ",
@@ -1520,7 +1712,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -1536,7 +1730,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -1552,7 +1748,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-50 ",
@@ -1567,7 +1765,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue SV Moonroofin Abbotsford",
@@ -1584,7 +1784,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -1599,7 +1801,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Tesla Model Y ",
@@ -1614,7 +1818,9 @@
       "year": 2024,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota 4Runner ",
@@ -1629,7 +1835,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas ",
@@ -1644,7 +1852,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas Cross Sport ",
@@ -1659,7 +1869,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Golf GTI ",
@@ -1674,7 +1886,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Golf R ",
@@ -1687,7 +1901,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taosin Abbotsford",
@@ -1703,7 +1919,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taosin Abbotsford",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -1718,7 +1936,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan 4Motionin Abbotsford",
@@ -1735,7 +1955,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -1750,7 +1972,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Golf GTI ",
@@ -1765,7 +1989,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Golf R ",
@@ -1778,7 +2004,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -1793,7 +2021,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -1808,7 +2038,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2024 Volvo XC90 ",
@@ -1823,7 +2055,9 @@
       "year": 2024,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Audi A3 SEDAN ",
@@ -1838,7 +2072,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "A3 SEDAN",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 ",
@@ -1854,7 +2090,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Audi A3 SEDAN ",
@@ -1869,7 +2107,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "A3 SEDAN",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 ",
@@ -1885,7 +2125,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Trax LTin Abbotsford",
@@ -1902,7 +2144,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Trax ",
@@ -1917,7 +2161,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Trax ",
@@ -1932,7 +2178,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue Preferredin Abbotsford",
@@ -1950,7 +2198,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue ",
@@ -1966,7 +2216,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue ",
@@ -1982,7 +2234,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Compass ",
@@ -1998,7 +2252,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Wrangler ",
@@ -2014,7 +2270,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Compass ",
@@ -2030,7 +2288,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Wrangler ",
@@ -2046,7 +2306,9 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage PHEV ",
@@ -2061,7 +2323,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage PHEV ",
@@ -2076,7 +2340,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage PHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -2092,7 +2358,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -2108,7 +2376,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -2123,7 +2393,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -2138,7 +2410,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -2153,7 +2427,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -2168,7 +2444,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas ",
@@ -2181,7 +2459,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta Premiumin Abbotsford",
@@ -2198,7 +2478,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2215,7 +2497,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta ",
@@ -2230,7 +2514,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos 4Motionin Abbotsford",
@@ -2247,7 +2533,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos 4Motionin Abbotsford",
@@ -2264,7 +2552,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -2279,7 +2569,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan ",
@@ -2294,7 +2586,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortlinein Abbotsford",
@@ -2311,7 +2605,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas ",
@@ -2326,7 +2622,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta ",
@@ -2341,7 +2639,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -2356,7 +2656,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan ",
@@ -2371,7 +2673,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2387,7 +2691,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2403,7 +2709,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -2419,7 +2727,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -2435,7 +2745,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas ",
@@ -2451,7 +2763,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport ",
@@ -2467,7 +2781,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTI ",
@@ -2483,7 +2799,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R ",
@@ -2499,7 +2817,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta ",
@@ -2513,7 +2833,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLIin Abbotsford",
@@ -2529,7 +2851,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos ",
@@ -2545,7 +2869,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -2561,7 +2887,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -2576,7 +2904,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas ",
@@ -2592,7 +2922,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport ",
@@ -2608,7 +2940,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTI ",
@@ -2624,7 +2958,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R ",
@@ -2640,7 +2976,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta ",
@@ -2654,7 +2992,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLIin Abbotsford",
@@ -2670,7 +3010,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos ",
@@ -2686,7 +3028,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -2702,7 +3046,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2719,7 +3065,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2736,7 +3084,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2753,7 +3103,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2770,7 +3122,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2787,7 +3141,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendlinein Abbotsford",
@@ -2804,7 +3160,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Highlinein Abbotsford",
@@ -2821,7 +3179,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2838,7 +3198,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2855,7 +3217,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Highlinein Abbotsford",
@@ -2872,7 +3236,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2889,7 +3255,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Highlinein Abbotsford",
@@ -2906,7 +3274,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -2923,7 +3293,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Highlinein Abbotsford",
@@ -2940,7 +3312,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendlinein Abbotsford",
@@ -2957,7 +3331,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendlinein Abbotsford",
@@ -2974,7 +3350,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendlinein Abbotsford",
@@ -2991,7 +3369,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -3008,7 +3388,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendlinein Abbotsford",
@@ -3025,7 +3407,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendlinein Abbotsford",
@@ -3042,7 +3426,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendlinein Abbotsford",
@@ -3059,7 +3445,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendlinein Abbotsford",
@@ -3076,7 +3464,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendlinein Abbotsford",
@@ -3093,7 +3483,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendlinein Abbotsford",
@@ -3110,7 +3502,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
@@ -3127,7 +3521,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortlinein Abbotsford",
@@ -3144,7 +3540,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendlinein Abbotsford",
@@ -3161,7 +3559,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendlinein Abbotsford",
@@ -3178,7 +3578,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendlinein Abbotsford",
@@ -3195,7 +3597,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -3210,7 +3614,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Atlas ",
@@ -3223,7 +3629,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen GLI ",
@@ -3239,7 +3647,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "GLI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta ",
@@ -3255,7 +3665,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos ",
@@ -3271,7 +3683,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Tiguanin Abbotsford",
@@ -3286,7 +3700,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Tiguanin Abbotsford",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Atlas ",
@@ -3299,7 +3715,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen GLIin Abbotsford",
@@ -3314,7 +3732,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "GLIin Abbotsford",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta ",
@@ -3330,7 +3750,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos ",
@@ -3346,7 +3768,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Tiguanin Abbotsford",
@@ -3361,7 +3785,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Tiguanin Abbotsford",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -3378,7 +3804,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -3395,7 +3823,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -3412,7 +3842,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -3429,7 +3861,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos Comfortline Black Editionin Abbotsford",
@@ -3446,7 +3880,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos Comfortline Black Editionin Abbotsford",
@@ -3463,7 +3899,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Abbotsford",
+      "province": "BC"
     }
   ]
 }
