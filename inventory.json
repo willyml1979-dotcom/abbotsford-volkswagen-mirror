@@ -1,6 +1,6 @@
 {
   "dealership": "Abbotsford Volkswagen",
-  "generated_at": "2026-10-25T22:08:48",
+  "generated_at": "2026-10-26T06:48:43",
   "vehicle_count": 210,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1103,7 +1103,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 32440.0,
+      "price": 31595.0,
       "price_currency": "CAD"
     },
     {
@@ -1125,7 +1125,7 @@
       "make": "Kia",
       "model": "K5",
       "condition": "used",
-      "price": 31425.0,
+      "price": 29570.0,
       "price_currency": "CAD"
     },
     {
@@ -1158,7 +1158,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 69835.0,
+      "price": 67895.0,
       "price_currency": "CAD"
     },
     {
@@ -1169,7 +1169,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 39425.0,
+      "price": 37625.0,
       "price_currency": "CAD"
     },
     {
@@ -1180,7 +1180,7 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used",
-      "price": 39895.0,
+      "price": 38295.0,
       "price_currency": "CAD"
     },
     {
@@ -1191,18 +1191,18 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 38425.0,
+      "price": 36625.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023 Volkswagen Tiguan ",
-      "vin": "3VV4B7AX0PM048736",
+      "vin": "3VV8B7AX6PM040108",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/830111ecba2a.html",
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 28495.0,
+      "price": 30295.0,
       "price_currency": "CAD"
     },
     {
@@ -1235,7 +1235,7 @@
       "make": "Audi",
       "model": "Q5",
       "condition": "used",
-      "price": 40858.0,
+      "price": 39035.0,
       "price_currency": "CAD"
     },
     {
@@ -1257,7 +1257,7 @@
       "make": "BMW",
       "model": "X7",
       "condition": "used",
-      "price": 82425.0,
+      "price": 80925.0,
       "price_currency": "CAD"
     },
     {
@@ -1290,7 +1290,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 35425.0,
+      "price": 34035.0,
       "price_currency": "CAD"
     },
     {
@@ -1301,7 +1301,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 72425.0,
+      "price": 70725.0,
       "price_currency": "CAD"
     },
     {
@@ -1312,7 +1312,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 41495.0,
+      "price": 39595.0,
       "price_currency": "CAD"
     },
     {
@@ -1323,7 +1323,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 41425.0,
+      "price": 40035.0,
       "price_currency": "CAD"
     },
     {
@@ -1356,7 +1356,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 29695.0,
+      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -1420,7 +1420,7 @@
       "make": "Volkswagen",
       "model": "Golf GTI",
       "condition": "used",
-      "price": 36435.0,
+      "price": 34625.0,
       "price_currency": "CAD"
     },
     {
