@@ -1,7 +1,7 @@
 {
   "dealership": "Abbotsford Volkswagen",
-  "generated_at": "2026-10-25T22:04:21",
-  "vehicle_count": 212,
+  "generated_at": "2026-10-25T22:08:48",
+  "vehicle_count": 210,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -147,6 +147,14 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7aec2323c2f0.html",
       "condition": "new",
       "price": 40233.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
+      "vin": "3VVBR7RM0TM099239",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/85153df4051c.html",
+      "condition": "new",
+      "price": 41233.0,
       "price_currency": "CAD"
     },
     {
@@ -1238,7 +1246,7 @@
       "make": "Audi",
       "model": "Q5",
       "condition": "new",
-      "price": 40858.0,
+      "price": 39035.0,
       "price_currency": "CAD"
     },
     {
@@ -1757,17 +1765,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota RAV4 ",
-      "vin": "2T3RWRFV1SW258006",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/9b219a52bfb0.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "new",
-      "price": 49895.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Atlas ",
       "vin": "1V2FR2CAXSC535059",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/04d86a5d8f2d.html",
@@ -1874,7 +1871,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 30425.0,
+      "price": 28625.0,
       "price_currency": "CAD"
     },
     {
@@ -1885,7 +1882,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 40835.0,
+      "price": 39035.0,
       "price_currency": "CAD"
     },
     {
@@ -1907,7 +1904,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 76425.0,
+      "price": 74425.0,
       "price_currency": "CAD"
     },
     {
@@ -1945,7 +1942,7 @@
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport ",
-      "vin": "1V2BC2CA0TC220417",
+      "vin": "1V2BC2CA6TC222589",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/0f3b8dac1004.html",
       "year": 2026,
       "make": "Volkswagen",
@@ -1956,24 +1953,24 @@
     },
     {
       "name": "2026 Volkswagen Golf GTI ",
-      "vin": "WVWNE7CD0TW217323",
+      "vin": "WVWRE7CD1TW255161",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/6bd9e83f837a.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf GTI",
       "condition": "new",
-      "price": 45983.0,
+      "price": 45383.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 Volkswagen Golf R ",
-      "vin": "WVWKF7CD8TW281898",
+      "vin": "WVWKF7CD0TW296184",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/04c6185e8ed5.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
       "condition": "new",
-      "price": 56183.0,
+      "price": 59183.0,
       "price_currency": "CAD"
     },
     {
@@ -2095,17 +2092,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Taos Comfortlinein Abbotsford",
-      "vin": "3VVVC7B23TM071250",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/935a31d7dc35.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 40508.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Taos Highline demoin Abbotsford",
       "vin": "3VV4C7B29TM002137",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/62576a7bf270.html",
@@ -2129,17 +2115,6 @@
     },
     {
       "name": "2026 Volkswagen Tiguan Trendlinein Abbotsford",
-      "vin": "3VVBR7RM0TM099239",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/85153df4051c.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 41233.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Trendlinein Abbotsford",
       "vin": "3VVBR7RMXTM112255",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/bd1bc039cf5d.html",
       "year": 2026,
@@ -2157,7 +2132,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 44325.0,
+      "price": 42625.0,
       "price_currency": "CAD"
     },
     {
