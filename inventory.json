@@ -1,312 +1,336 @@
 {
   "dealership": "Abbotsford Volkswagen",
-  "generated_at": "2026-10-26T06:52:24",
-  "vehicle_count": 210,
+  "generated_at": "2026-11-17T06:00:20",
+  "vehicle_count": 225,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2025 Volkswagen Taos Comfortlinein Abbotsford",
-      "vin": "3VVVC7B24SM025487",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/f75209926817.html",
-      "condition": "new",
-      "price": 36720.0,
+      "name": "Acura RDX 2011 for salein Abbotsford",
+      "vin": "5J8TB1H24BA800611",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/81ea898a89c5.html",
+      "condition": "used"
+    },
+    {
+      "name": "Hyundai Santa Fe 2012 for salein Abbotsford",
+      "vin": "5XYZG4AGXCG121719",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e9d8d9e54387.html",
+      "condition": "used",
+      "price": 3380.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Comfortlinein Abbotsford",
-      "vin": "3VWEW7BU2TM045159",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7759ec67f84a.html",
-      "condition": "new",
-      "price": 31483.0,
+      "name": "Hyundai Santa Fe Sport 2014 for salein Abbotsford",
+      "vin": "5XYZUDLB5EG181033",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/8516c8e4928a.html",
+      "condition": "used",
+      "price": 5800.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Trendlinein Abbotsford",
-      "vin": "3VWCW7BU4TM048037",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/9947b9a0e8f9.html",
-      "condition": "new",
-      "price": 29583.0,
+      "name": "Jeep Cherokee 2014 for salein Abbotsford",
+      "vin": "1C4PJMCS6EW284979",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/2cd44d891b55.html",
+      "condition": "used"
+    },
+    {
+      "name": "Jeep Wrangler 2015 for salein Abbotsford",
+      "vin": "1C4BJWEG4FL627998",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/43e1b5967e4d.html",
+      "condition": "used"
+    },
+    {
+      "name": "Hyundai Elantra 2016 for salein Abbotsford",
+      "vin": "5NPDH4AE1GH682363",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/a1eefc094cb6.html",
+      "condition": "used",
+      "price": 9890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Highlinein Abbotsford",
-      "vin": "3VWGW7BU2TM049415",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/ae556f31dead.html",
-      "condition": "new",
-      "price": 35683.0,
+      "name": "Hyundai Elantra GT 2016 for salein Abbotsford",
+      "vin": "KMHD25LH0GU254266",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/cb0e0f839a3d.html",
+      "condition": "used",
+      "price": 6800.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Comfortlinein Abbotsford",
-      "vin": "3VWEW7BU4TM051142",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/cd501e65a431.html",
-      "condition": "new",
-      "price": 32083.0,
+      "name": "Porsche Cayenne 2017 for salein Abbotsford",
+      "vin": "WP1AA2A20HKA82615",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/47f5e8e28196.html",
+      "condition": "used",
+      "price": 24890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Highlinein Abbotsford",
-      "vin": "3VWGW7BU2TM054744",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/f4daee221e7e.html",
-      "condition": "new",
-      "price": 37083.0,
+      "name": "Volkswagen Golf SportWagen 2017 for salein Abbotsford",
+      "vin": "3VWA17AU2HM515681",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/6c8beeb745ed.html",
+      "condition": "used"
+    },
+    {
+      "name": "Volkswagen Tiguan 2017 for salein Abbotsford",
+      "vin": "WVGNV7AX5HK032157",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f00d96d850cb.html",
+      "condition": "used",
+      "price": 12890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Highlinein Abbotsford",
-      "vin": "3VWGW7BU2TM064786",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/b22720665819.html",
-      "condition": "new",
-      "price": 36683.0,
+      "name": "Ford Escape 2019 for salein Abbotsford",
+      "vin": "1FMCU9HD0KUB68242",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/9245a69904c4.html",
+      "condition": "used",
+      "price": 6800.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Comfortlinein Abbotsford",
-      "vin": "3VWSW7BU9TM066271",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/1d1faecb29d7.html",
-      "condition": "new",
-      "price": 32883.0,
+      "name": "Honda Ridgeline 2019 for salein Abbotsford",
+      "vin": "5FPYK3F12KB503409",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f1413a25d0f0.html",
+      "condition": "used",
+      "price": 27890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Highlinein Abbotsford",
-      "vin": "3VWGW7BU3TM064862",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/798c3768c0c0.html",
-      "condition": "new",
-      "price": 36683.0,
+      "name": "Infiniti QX60 2019 for salein Abbotsford",
+      "vin": "5N1DL0MM6KC505818",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/d970443ebf13.html",
+      "condition": "used",
+      "price": 13890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Trendlinein Abbotsford",
-      "vin": "3VWCW7BU2TM063166",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/0c719de7f93f.html",
-      "condition": "new",
-      "price": 30583.0,
+      "name": "RAM 1500 Classic 2019 for salein Abbotsford",
+      "vin": "1C6RR7KT8KS599483",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/df7d1670289a.html",
+      "condition": "used",
+      "price": 26395.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Jetta Trendlinein Abbotsford",
-      "vin": "3VWCW7BUXTM063058",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/388ad517148b.html",
-      "condition": "new",
-      "price": 30583.0,
+      "name": "Volkswagen Beetle Convertible 2019 for salein Abbotsford",
+      "vin": "3VWTDAAT3KM500067",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/846326d01f4a.html",
+      "condition": "used",
+      "price": 31890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
-      "vin": "3VV8C7B21TM046232",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/a54bc50da556.html",
-      "condition": "new",
-      "price": 34808.0,
+      "name": "Ford Ranger 2020 for salein Abbotsford",
+      "vin": "1FTER4FHXLLA90082",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/56a914d80da1.html",
+      "condition": "used",
+      "price": 29890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
-      "vin": "3VV8C7B23TM049942",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/de92fe9296ed.html",
-      "condition": "new",
-      "price": 34808.0,
+      "name": "Jeep Cherokee 2020 for salein Abbotsford",
+      "vin": "1C4PJLAB5LD598189",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/a2e6cf5a9665.html",
+      "condition": "used",
+      "price": 14890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
-      "vin": "3VV8C7B21TM051074",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/39c4dc407d40.html",
-      "condition": "new",
-      "price": 34808.0,
+      "name": "Ford Mustang Mach-E 2021 for salein Abbotsford",
+      "vin": "3FMTK3SS3MMA23763",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f54d24b741a8.html",
+      "condition": "used",
+      "price": 28890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
-      "vin": "3VV2C7B24TM051737",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/accadfe875f0.html",
-      "condition": "new",
-      "price": 41438.0,
+      "name": "Volkswagen Jetta 2021 for salein Abbotsford",
+      "vin": "3VWC57BU4MM075310",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e9289ca2f54b.html",
+      "condition": "used",
+      "price": 19890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
-      "vin": "3VV8C7B25TM052552",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/6960954e729c.html",
-      "condition": "new",
-      "price": 34808.0,
+      "name": "Audi Q4 E-tron 2022 for salein Abbotsford",
+      "vin": "WA1L2AFZ0NP014248",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/7d19112d0a1b.html",
+      "condition": "used"
+    },
+    {
+      "name": "Audi Q8 2023 for salein Abbotsford",
+      "vin": "WA1DVBF16PD017784",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/1efb55afec7f.html",
+      "condition": "used",
+      "price": 44780.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
-      "vin": "3VV8C7B28TM057745",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7c26703860ac.html",
-      "condition": "new",
-      "price": 34808.0,
+      "name": "RAM 1500 2023 for salein Abbotsford",
+      "vin": "1C6RRFGG4PN632457",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/5feadcc056a3.html",
+      "condition": "used",
+      "price": 38380.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Highlinein Abbotsford",
-      "vin": "3VV4C7B27TM072851",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/05e1c04157b3.html",
-      "condition": "new",
-      "price": 41608.0,
+      "name": "Volkswagen Jetta 2023 for salein Abbotsford",
+      "vin": "3VWEM7BU5PM013351",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/5d2d60f8e2da.html",
+      "condition": "used",
+      "price": 18780.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
-      "vin": "3VV2C7B22TM031289",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/505e878055fc.html",
-      "condition": "new",
-      "price": 40008.0,
+      "name": "RAM 2500 2024 for salein Abbotsford",
+      "vin": "3C6UR5FL9RG343881",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/6091d2c26bc1.html",
+      "condition": "used",
+      "price": 68890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
-      "vin": "3VV2C7B26TM052288",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/4ebc313ec7d9.html",
-      "condition": "new",
-      "price": 40008.0,
+      "name": "Volkswagen Atlas Cross Sport 2024 for salein Abbotsford",
+      "vin": "1V2LE2CA1RC214682",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/9d63c307008f.html",
+      "condition": "used",
+      "price": 32890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
-      "vin": "3VV2C7B2XTM038104",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/974201e98f64.html",
-      "condition": "new",
-      "price": 40008.0,
+      "name": "Volkswagen Golf R 2024 for salein Abbotsford",
+      "vin": "WVWEB7CD4RW209274",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/d78d0643b51c.html",
+      "condition": "used",
+      "price": 42890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
-      "vin": "3VVBR7RM4TM093430",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/f3565d212b53.html",
-      "condition": "new",
-      "price": 40724.0,
+      "name": "Volkswagen Taos 2024 for salein Abbotsford",
+      "vin": "3VVEX7B24RM062117",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/0ae9556bbd8b.html",
+      "condition": "used",
+      "price": 21890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
-      "vin": "3VVBR7RM2TM093989",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c1361ad6edc0.html",
-      "condition": "new",
-      "price": 40233.0,
+      "name": "Volkswagen Tiguan 2024 for salein Abbotsford",
+      "vin": "3VVMB7AX6RM061252",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/b5105d3430c3.html",
+      "condition": "used",
+      "price": 25890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
-      "vin": "3VVBR7RM8TM098713",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/375a4d72b164.html",
-      "condition": "new",
-      "price": 40233.0,
+      "name": "Volvo XC90 2024 for salein Abbotsford",
+      "vin": "YV4062PE4R1206860",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/cc4994f085c0.html",
+      "condition": "used",
+      "price": 50890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
-      "vin": "3VVBR7RM6TM099150",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7aec2323c2f0.html",
-      "condition": "new",
-      "price": 40233.0,
+      "name": "Audi A3 SEDAN 2025 for salein Abbotsford",
+      "vin": "WAULUCGY8SA123554",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f3e7c74e4e3c.html",
+      "condition": "used",
+      "price": 31480.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
-      "vin": "3VVBR7RM0TM099239",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/85153df4051c.html",
-      "condition": "new",
-      "price": 41233.0,
+      "name": "Audi Q3 2025 for salein Abbotsford",
+      "vin": "WA1EECF37S1078812",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/1eaf7d0c321c.html",
+      "condition": "used",
+      "price": 32780.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
-      "vin": "3VVBR7RMXTM112255",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/bd1bc039cf5d.html",
-      "condition": "new",
-      "price": 41233.0,
+      "name": "Chevrolet Trax 2025 for salein Abbotsford",
+      "vin": "KL77LHE28SC282272",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/57e33236a015.html",
+      "condition": "used",
+      "price": 24890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen GLIin Abbotsford",
-      "vin": "3VW2M7BU3VM011064",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/b10dbb70a40a.html",
-      "condition": "new",
-      "price": 38095.0,
+      "name": "Chrysler Pacifica 2025 for salein Abbotsford",
+      "vin": "2C4RC1GG2SR526887",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/fcb8ed66df76.html",
+      "condition": "used",
+      "price": 34919.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen GLIin Abbotsford",
-      "vin": "3VW2M7BU5VM004388",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/bd4a437add98.html",
-      "condition": "new",
-      "price": 37095.0,
+      "name": "Dodge Durango 2025 for salein Abbotsford",
+      "vin": "1C4SDJCTXSC550364",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/3322a17b3a68.html",
+      "condition": "used",
+      "price": 40890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen GLIin Abbotsford",
-      "vin": "3VW2M7BU3VM017964",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c2bbb2a45595.html",
-      "condition": "new",
-      "price": 38095.0,
+      "name": "Ford F-150 2025 for salein Abbotsford",
+      "vin": "1FTFW3L83SKE94826",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/8d60010de1e4.html",
+      "condition": "used",
+      "price": 45890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
-      "vin": "3VWSW7BU2VM000390",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/ee39eb555a37.html",
-      "condition": "new",
-      "price": 32795.0,
+      "name": "Kia Carnival 2025 for salein Abbotsford",
+      "vin": "KNDNC5K36S6523718",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/7e401b76b838.html",
+      "condition": "used",
+      "price": 46800.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
-      "vin": "3VWSW7BU9VM001505",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/fd281d0e89fb.html",
-      "condition": "new",
-      "price": 32795.0,
+      "name": "Nissan Kicks Play 2025 for salein Abbotsford",
+      "vin": "3N1CP5CV6SL483290",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/0a3cd29c949e.html",
+      "condition": "used"
+    },
+    {
+      "name": "RAM 1500 2026 for salein Abbotsford",
+      "vin": "1C6SRFLP4TN291109",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/ca1bae0ff1d9.html",
+      "condition": "used",
+      "price": 59890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
-      "vin": "3VWSW7BU9VM001343",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/b6b36369e172.html",
-      "condition": "new",
-      "price": 33295.0,
+      "name": "Volkswagen Jetta GLI 2026 for salein Abbotsford",
+      "vin": "3VW2M7BU6TM045223",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e370e175b7b6.html",
+      "condition": "used"
+    },
+    {
+      "name": "Volkswagen Taos 2026 for salein Abbotsford",
+      "vin": "3VV4C7B20TM055731",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/9bffd9d85486.html",
+      "condition": "used",
+      "price": 35800.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
-      "vin": "3VWSW7BU7VM007819",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/dbbbd0cde3d6.html",
-      "condition": "new",
-      "price": 32795.0,
+      "name": "2012 Hyundai Santa Fein Abbotsford",
+      "vin": "5XYZG4AGXCG121719",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/51d8dc5b422f.html",
+      "year": 2012,
+      "make": "Hyundai",
+      "model": "Santa Fein Abbotsford",
+      "condition": "used",
+      "price": 3380.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
-      "vin": "3VWSW7BU2VM014385",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/bc1c0733c6c1.html",
-      "condition": "new",
-      "price": 33295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Comfortline Black Editionin Abbotsford",
-      "vin": "3VV2D7B24VM007754",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c2ac41a6aef0.html",
-      "condition": "new",
-      "price": 39920.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Comfortline Black Editionin Abbotsford",
-      "vin": "3VV2D7B24VM008371",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/8c64b5ed17d2.html",
-      "condition": "new",
-      "price": 39920.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen Taos Trendlinein Abbotsford",
-      "vin": "3VV8D7B29VM021448",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/0e09254eff02.html",
-      "condition": "new",
-      "price": 34120.0,
+      "name": "2014 Hyundai Santa Fe Sportin Abbotsford",
+      "vin": "5XYZUDLB5EG181033",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e37892805a06.html",
+      "year": 2014,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 5800.0,
       "price_currency": "CAD"
     },
     {
@@ -354,25 +378,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Volkswagen Touaregin Abbotsford",
-      "vin": "WVGEP9BP0FD003445",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/b7b73f15972f.html",
-      "year": 2015,
-      "make": "Volkswagen",
-      "model": "Touaregin Abbotsford",
+      "name": "2016 Hyundai Elantra GLin Abbotsford",
+      "vin": "5NPDH4AE1GH682363",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/88282dff1e9c.html",
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Elantra",
       "condition": "used",
-      "price": 17035.0,
+      "price": 9890.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Volkswagen Touareg ",
-      "vin": "WVGEP9BP0FD003445",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/95775a175035.html",
-      "year": 2015,
-      "make": "Volkswagen",
-      "model": "Touareg",
+      "name": "2016 Hyundai Elantra GT GLin Abbotsford",
+      "vin": "KMHD25LH0GU254266",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/83a101696349.html",
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Elantra",
       "condition": "used",
-      "price": 17035.0,
+      "price": 6800.0,
       "price_currency": "CAD"
     },
     {
@@ -486,44 +510,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Porsche Cayennein Abbotsford",
-      "vin": "WP1AA2A20HKA82615",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/b15147d9a962.html",
+      "name": "2017 Volkswagen Tiguan Wolfsburg Editionin Abbotsford",
+      "vin": "WVGNV7AX5HK032157",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/804ab6695ad1.html",
       "year": 2017,
-      "make": "Porsche",
-      "model": "Cayennein Abbotsford",
+      "make": "Volkswagen",
+      "model": "Tiguan",
       "condition": "used",
-      "price": 29035.0,
+      "price": 12890.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Porsche Cayenne ",
-      "vin": "WP1AA2A20HKA82615",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/47f5e8e28196.html",
-      "year": 2017,
-      "make": "Porsche",
-      "model": "Cayenne",
-      "condition": "used"
-    },
-    {
-      "name": "2018 Hyundai Sonata Sportin Abbotsford",
-      "vin": "5NPE34AF6JH662810",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/c835423458e4.html",
-      "year": 2018,
-      "make": "Hyundai",
-      "model": "Sonata",
-      "condition": "used",
-      "price": 11395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Hyundai Sonata ",
-      "vin": "5NPE34AF6JH662810",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/eb1e632108b4.html",
-      "year": 2018,
-      "make": "Hyundai",
-      "model": "Sonata",
-      "condition": "used"
     },
     {
       "name": "2018 Kia Sedona LXin Abbotsford",
@@ -559,17 +554,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 1500 Outdoorsmanin Abbotsford",
-      "vin": "1C6RR7LMXJS290488",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/6437ab0f9460.html",
-      "year": 2018,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 25425.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 RAM 1500 ",
       "vin": "1C6RR7LMXJS290488",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/2aec66b829a9.html",
@@ -589,6 +573,17 @@
       "model": "Atlas",
       "condition": "used",
       "price": 26035.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Volkswagen Atlas Highlinein Abbotsford",
+      "vin": "1V2RR2CA7JC529523",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/cf3c9e17a0ba.html",
+      "year": 2018,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "used",
+      "price": 10450.0,
       "price_currency": "CAD"
     },
     {
@@ -626,13 +621,13 @@
     },
     {
       "name": "2019 Dodge Grand Caravan Canada Value Packagein Abbotsford",
-      "vin": "2C4RDGBG4KR794380",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/d4216b27d9ad.html",
+      "vin": "2C4RDGBG8KR794382",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/aac75806d721.html",
       "year": 2019,
       "make": "Dodge",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 21425.0,
+      "price": 16750.0,
       "price_currency": "CAD"
     },
     {
@@ -647,24 +642,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Honda Ridgeline ",
-      "vin": "5FPYK3F12KB503409",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f1413a25d0f0.html",
+      "name": "2019 Ford Escape SELin Abbotsford",
+      "vin": "1FMCU9HD0KUB68242",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/8d2e23782c66.html",
       "year": 2019,
-      "make": "Honda",
-      "model": "Ridgeline",
+      "make": "Ford",
+      "model": "Escape",
       "condition": "used",
-      "price": 31435.0,
+      "price": 6800.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Infiniti QX60 ",
+      "name": "2019 Infiniti QX60 PURE | SUNROOF | LEATHER SEATS | THIRD-ROW SEATINGin Abbotsford",
       "vin": "5N1DL0MM6KC505818",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/d970443ebf13.html",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/5315c6e29247.html",
       "year": 2019,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "price": 13890.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 Jeep Cherokee Trailhawk Elitein Abbotsford",
@@ -698,15 +695,6 @@
       "condition": "used",
       "price": 27035.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Volkswagen Beetle Convertible ",
-      "vin": "3VWTDAAT3KM500067",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/846326d01f4a.html",
-      "year": 2019,
-      "make": "Volkswagen",
-      "model": "Beetle",
-      "condition": "used"
     },
     {
       "name": "2019 Volkswagen Jetta Comfortlinein Abbotsford",
@@ -819,6 +807,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Jeep Cherokee Sport | BACKUP CAMERAin Abbotsford",
+      "vin": "1C4PJLAB5LD598189",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/4ffa27448535.html",
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used",
+      "price": 14890.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Lexus RX ",
       "vin": "2T2JZMDA4LC223149",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/65bf416f4b8b.html",
@@ -827,17 +826,6 @@
       "model": "RX",
       "condition": "used",
       "price": 44425.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Lincoln Nautilus Reservein Abbotsford",
-      "vin": "2LMPJ8KP7LBL12629",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/bf65e6fada9b.html",
-      "year": 2020,
-      "make": "Lincoln",
-      "model": "Nautilus",
-      "condition": "used",
-      "price": 25625.0,
       "price_currency": "CAD"
     },
     {
@@ -863,6 +851,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Tesla Model 3 Standard Range Plus | DIGITAL COCKPIT | PANORAMIC SUNROOFin Abbotsford",
+      "vin": "5YJ3E1EA2LF718922",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/3106528e6564.html",
+      "year": 2020,
+      "make": "Tesla",
+      "model": "Model 3",
+      "condition": "used",
+      "price": 21890.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Tesla Model 3 ",
       "vin": "5YJ3E1EA8LF715295",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/d28c2b8be8ad.html",
@@ -881,26 +880,6 @@
       "make": "Toyota",
       "model": "Highlander",
       "condition": "used"
-    },
-    {
-      "name": "2021 Ford Mustang Mach-E ",
-      "vin": "3FMTK3SS3MMA23763",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f54d24b741a8.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "used"
-    },
-    {
-      "name": "2021 RAM 1500 ",
-      "vin": "1C6SRFVT1MN659130",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f73bb4dfbfa4.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 40625.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -925,17 +904,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Volkswagen Atlas ",
-      "vin": "1V2FR2CA7MC578728",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e67ed9762244.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 28625.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Volkswagen Atlas Cross Sport ",
       "vin": "1V2BC2CA7MC236874",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/bdc50350860b.html",
@@ -944,6 +912,17 @@
       "model": "Atlas Cross Sport",
       "condition": "used",
       "price": 30625.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWC57BU4MM075310",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/849aff68aed8.html",
+      "year": 2021,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "used",
+      "price": 19890.0,
       "price_currency": "CAD"
     },
     {
@@ -1013,17 +992,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Tesla Model 3 ",
-      "vin": "5YJ3E1EA6NF248753",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/5a93b1bacf15.html",
-      "year": 2022,
-      "make": "Tesla",
-      "model": "Model 3",
-      "condition": "used",
-      "price": 31960.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Volkswagen Atlas ",
       "vin": "1V2BR2CA2NC560038",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/0199800cc05d.html",
@@ -1074,17 +1042,6 @@
       "model": "Taos",
       "condition": "used",
       "price": 24035.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Tiguan Comfortline R-Line Black Editionin Abbotsford",
-      "vin": "3VV8B7AX2NM099881",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/938a1f5175a9.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 29895.0,
       "price_currency": "CAD"
     },
     {
@@ -1165,28 +1122,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 BMW X5 ",
-      "vin": "5UXCR6C03P9R55283",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/6eade1189525.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used",
-      "price": 54320.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chrysler Pacifica ",
-      "vin": "2C4RC1BG7PR528469",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/64871ce248a5.html",
-      "year": 2023,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 31595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Chrysler Pacifica ",
       "vin": "2C4RC1BG7PR528469",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/64871ce248a5.html",
@@ -1220,28 +1155,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 1500 ",
-      "vin": "1C6RRFGG4PN632457",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/5feadcc056a3.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 43025.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 3500 ",
-      "vin": "3C63R3EL1PG596451",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/1cc0dc07f4d6.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 67895.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Toyota RAV4 ",
       "vin": "2T3RWRFV1PW158639",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/78b62f1b2814.html",
@@ -1272,6 +1185,17 @@
       "model": "Atlas Cross Sport",
       "condition": "used",
       "price": 36625.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Volkswagen Jetta Comfortline | LEATHERETTE | DIGITAL COCKPIT | PUSH TO STARTin Abbotsford",
+      "vin": "3VWEM7BU5PM013351",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/a2a9b385849f.html",
+      "year": 2023,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "used",
+      "price": 18780.0,
       "price_currency": "CAD"
     },
     {
@@ -1330,28 +1254,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 BMW X7 ",
-      "vin": "5UX23EM01R9W02808",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/6a9e328513cf.html",
-      "year": 2024,
-      "make": "BMW",
-      "model": "X7",
-      "condition": "used",
-      "price": 80925.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Chevrolet Trax 1RSin Abbotsford",
-      "vin": "KL77LGE26RC226741",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/044c5cee10e4.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 27625.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Chevrolet Trax ",
       "vin": "KL77LGE26RC226741",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/fc42786e3c8f.html",
@@ -1385,17 +1287,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Grand Cherokee ",
-      "vin": "1C4RJHBG7RC148381",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/0e7a88a79749.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 39595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Jeep Wrangler ",
       "vin": "1C4PJXDN7RW101976",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/7399d0b7255a.html",
@@ -1418,17 +1309,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Rogue SV Moonroofin Abbotsford",
-      "vin": "JN8BT3BB8RW429577",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/073b4558c3ba.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Rogue ",
       "vin": "JN8BT3BB8RW429577",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/792baefa76ad.html",
@@ -1437,28 +1317,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 2500 ",
-      "vin": "3C6UR5FL9RG343881",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/6091d2c26bc1.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 71995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Tesla Model Y ",
-      "vin": "7SAYGDED7RF056987",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/0865f38950a6.html",
-      "year": 2024,
-      "make": "Tesla",
-      "model": "Model Y",
-      "condition": "used",
-      "price": 46625.0,
       "price_currency": "CAD"
     },
     {
@@ -1504,58 +1362,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Golf R ",
-      "vin": "WVWEB7CD4RW209274",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/d78d0643b51c.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "used",
-      "price": 46895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taosin Abbotsford",
+      "name": "2024 Volkswagen Taos | DIGITAL COCKPIT | LEATHERETTE SEATSin Abbotsford",
       "vin": "3VVEX7B24RM062117",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/08d04c6471a9.html",
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Taosin Abbotsford",
-      "condition": "used",
-      "price": 27306.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taos Comfortlinein Abbotsford",
-      "vin": "3VVSX7B29RM006886",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/10c6ac8f4a6d.html",
-      "year": 2024,
-      "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 27625.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVEX7B24RM062117",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/0ae9556bbd8b.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 27306.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX6RM123613",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/b5105d3430c3.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 30435.0,
+      "price": 21890.0,
       "price_currency": "CAD"
     },
     {
@@ -1603,39 +1417,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volvo XC90 ",
-      "vin": "YV4062PE4R1206860",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/cc4994f085c0.html",
-      "year": 2024,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "used",
-      "price": 53835.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi A3 SEDAN ",
-      "vin": "WAULUCGY8SA123554",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f3e7c74e4e3c.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "A3 SEDAN",
-      "condition": "used",
-      "price": 36425.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 ",
-      "vin": "WA1AUCF39S1079459",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/1eaf7d0c321c.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 37425.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Audi SQ5 Sportback ",
       "vin": "WA1C5AGU9S2082132",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/2f92251b02c4.html",
@@ -1666,28 +1447,6 @@
       "model": "Q3",
       "condition": "new",
       "price": 35645.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Trax LTin Abbotsford",
-      "vin": "KL77LHE28SC282272",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/2ed43ff4ff16.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 27035.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Trax ",
-      "vin": "KL77LHE28SC282272",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/57e33236a015.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 28835.0,
       "price_currency": "CAD"
     },
     {
@@ -1856,17 +1615,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Jetta Premiumin Abbotsford",
-      "vin": "3VWEX7BU1SM072901",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/876656957e3f.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 29835.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Jetta Trendlinein Abbotsford",
       "vin": "3VWCX7BU6SM080371",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/5978966e7a87.html",
@@ -1875,17 +1623,6 @@
       "model": "Jetta",
       "condition": "used",
       "price": 27625.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Jetta Comfortlinein Abbotsford",
-      "vin": "3VWSX7BU1SM069662",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e4abd46fa4b8.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 29325.0,
       "price_currency": "CAD"
     },
     {
@@ -1919,6 +1656,17 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 40835.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2025 Volkswagen Taos Comfortlinein Abbotsford",
+      "vin": "3VVVC7B24SM025487",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/f75209926817.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 36720.0,
       "price_currency": "CAD"
     },
     {
@@ -2095,6 +1843,215 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWEW7BU2TM045159",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7759ec67f84a.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 31483.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendlinein Abbotsford",
+      "vin": "3VWCW7BU4TM048037",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/9947b9a0e8f9.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 29583.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Highlinein Abbotsford",
+      "vin": "3VWGW7BU2TM049415",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/ae556f31dead.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 35683.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWEW7BU4TM051142",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/cd501e65a431.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 32083.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Highlinein Abbotsford",
+      "vin": "3VWGW7BU2TM054744",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/f4daee221e7e.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 37083.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Highlinein Abbotsford",
+      "vin": "3VWGW7BU2TM064786",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/b22720665819.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36683.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWSW7BU9TM066271",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/1d1faecb29d7.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 32883.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Highlinein Abbotsford",
+      "vin": "3VWGW7BU3TM064862",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/798c3768c0c0.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 36683.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendlinein Abbotsford",
+      "vin": "3VWCW7BU2TM063166",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/0c719de7f93f.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 30583.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendlinein Abbotsford",
+      "vin": "3VWCW7BUXTM063058",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/388ad517148b.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 30583.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
+      "vin": "3VV8C7B21TM046232",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/a54bc50da556.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 34808.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
+      "vin": "3VV8C7B23TM049942",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/de92fe9296ed.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 34808.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
+      "vin": "3VV8C7B21TM051074",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/39c4dc407d40.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 34808.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
+      "vin": "3VV2C7B24TM051737",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/accadfe875f0.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 41438.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
+      "vin": "3VV8C7B25TM052552",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/6960954e729c.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 34808.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
+      "vin": "3VV8C7B28TM057745",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7c26703860ac.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 34808.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Highlinein Abbotsford",
+      "vin": "3VV4C7B27TM072851",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/05e1c04157b3.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 41608.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
+      "vin": "3VV2C7B22TM031289",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/505e878055fc.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40008.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
+      "vin": "3VV2C7B26TM052288",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/4ebc313ec7d9.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40008.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Volkswagen Taos Highline demoin Abbotsford",
       "vin": "3VV4C7B29TM002137",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/62576a7bf270.html",
@@ -2106,6 +2063,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
+      "vin": "3VV2C7B2XTM038104",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/974201e98f64.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40008.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Volkswagen Taos Highline demoin Abbotsford",
       "vin": "3VV4C7B26TM054115",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/2d8472b710c6.html",
@@ -2114,6 +2082,72 @@
       "model": "Taos",
       "condition": "new",
       "price": 41108.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
+      "vin": "3VVBR7RM4TM093430",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/f3565d212b53.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 40724.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
+      "vin": "3VVBR7RM2TM093989",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c1361ad6edc0.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 40233.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
+      "vin": "3VVBR7RM8TM098713",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/375a4d72b164.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 40233.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
+      "vin": "3VVBR7RM6TM099150",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/7aec2323c2f0.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 40233.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
+      "vin": "3VVBR7RM0TM099239",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/85153df4051c.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 41233.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Tiguan Trendlinein Abbotsford",
+      "vin": "3VVBR7RMXTM112255",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/bd1bc039cf5d.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 41233.0,
       "price_currency": "CAD"
     },
     {
@@ -2178,6 +2212,127 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 42845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen GLIin Abbotsford",
+      "vin": "3VW2M7BU3VM011064",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/b10dbb70a40a.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "GLIin Abbotsford",
+      "condition": "new",
+      "price": 38095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen GLIin Abbotsford",
+      "vin": "3VW2M7BU5VM004388",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/bd4a437add98.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "GLIin Abbotsford",
+      "condition": "new",
+      "price": 37095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen GLIin Abbotsford",
+      "vin": "3VW2M7BU3VM017964",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c2bbb2a45595.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "GLIin Abbotsford",
+      "condition": "new",
+      "price": 38095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWSW7BU2VM000390",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/ee39eb555a37.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 32795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWSW7BU9VM001505",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/fd281d0e89fb.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 32795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWSW7BU9VM001343",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/b6b36369e172.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 33295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWSW7BU7VM007819",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/dbbbd0cde3d6.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 32795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWSW7BU2VM014385",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/bc1c0733c6c1.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 33295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline Black Editionin Abbotsford",
+      "vin": "3VV2D7B24VM007754",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c2ac41a6aef0.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 39920.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline Black Editionin Abbotsford",
+      "vin": "3VV2D7B24VM008371",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/8c64b5ed17d2.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 39920.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Trendlinein Abbotsford",
+      "vin": "3VV8D7B29VM021448",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/0e09254eff02.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 34120.0,
       "price_currency": "CAD"
     }
   ]
