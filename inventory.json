@@ -1,7 +1,7 @@
 {
   "dealership": "Abbotsford Volkswagen",
-  "generated_at": "2026-11-17T06:00:20",
-  "vehicle_count": 225,
+  "generated_at": "2026-11-17T06:04:48",
+  "vehicle_count": 228,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1872,7 +1872,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 35683.0,
+      "price": 36433.0,
       "price_currency": "CAD"
     },
     {
@@ -1894,7 +1894,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 37083.0,
+      "price": 37833.0,
       "price_currency": "CAD"
     },
     {
@@ -1905,7 +1905,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 36683.0,
+      "price": 37433.0,
       "price_currency": "CAD"
     },
     {
@@ -1927,7 +1927,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 36683.0,
+      "price": 37433.0,
       "price_currency": "CAD"
     },
     {
@@ -1953,6 +1953,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Jetta Comfortlinein Abbotsford",
+      "vin": "3VWEW7BU2TM076220",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/2b31c47a3e40.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 35333.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Volkswagen Taos Trendlinein Abbotsford",
       "vin": "3VV8C7B21TM046232",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/a54bc50da556.html",
@@ -1960,7 +1971,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 34808.0,
+      "price": 36058.0,
       "price_currency": "CAD"
     },
     {
@@ -2026,29 +2037,29 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 41608.0,
+      "price": 43358.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
+      "name": "2026 Volkswagen Taos Comfortline Black Edition demoin Abbotsford",
       "vin": "3VV2C7B22TM031289",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/505e878055fc.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 40008.0,
+      "price": 41258.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
+      "name": "2026 Volkswagen Taos Comfortline Black Edition demoin Abbotsford",
       "vin": "3VV2C7B26TM052288",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/4ebc313ec7d9.html",
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 40008.0,
+      "price": 41258.0,
       "price_currency": "CAD"
     },
     {
@@ -2070,7 +2081,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 40008.0,
+      "price": 41258.0,
       "price_currency": "CAD"
     },
     {
@@ -2082,6 +2093,17 @@
       "model": "Taos",
       "condition": "new",
       "price": 41108.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline Black Editionin Abbotsford",
+      "vin": "3VV2C7B20TM048527",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/c1e12e3cd9f2.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 41858.0,
       "price_currency": "CAD"
     },
     {
@@ -2255,7 +2277,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 32795.0,
+      "price": 35733.0,
       "price_currency": "CAD"
     },
     {
@@ -2266,7 +2288,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 32795.0,
+      "price": 36733.0,
       "price_currency": "CAD"
     },
     {
@@ -2277,7 +2299,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 33295.0,
+      "price": 36233.0,
       "price_currency": "CAD"
     },
     {
@@ -2288,7 +2310,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 32795.0,
+      "price": 35733.0,
       "price_currency": "CAD"
     },
     {
@@ -2300,6 +2322,17 @@
       "model": "Jetta",
       "condition": "new",
       "price": 33295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta GLIin Abbotsford",
+      "vin": "3VW2M7BU3VM017964",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/8665bfac1fa6.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new",
+      "price": 41033.0,
       "price_currency": "CAD"
     },
     {

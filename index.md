@@ -1,6 +1,6 @@
 # Abbotsford Volkswagen
 
- dealership in Abbotsford. AI-readable inventory mirror, about 225 vehicles.
+ dealership in Abbotsford. AI-readable inventory mirror, about 228 vehicles.
 
 - Official website: https://www.abbotsfordvw.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/
