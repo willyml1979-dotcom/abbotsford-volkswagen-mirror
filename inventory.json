@@ -1,7 +1,7 @@
 {
   "dealership": "Abbotsford Volkswagen",
-  "generated_at": "2026-11-17T23:13:56",
-  "vehicle_count": 228,
+  "generated_at": "2026-11-17T23:17:18",
+  "vehicle_count": 226,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -403,6 +403,30 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/c79788ab50de.html",
       "condition": "used",
       "price": 39890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf R 2024 for salein Abbotsford",
+      "vin": "WVWEB7CD4RW209274",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/d78d0643b51c.html",
+      "condition": "new",
+      "price": 42890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2024 for salein Abbotsford",
+      "vin": "3VVEX7B24RM062117",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/0ae9556bbd8b.html",
+      "condition": "new",
+      "price": 21890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2025 for salein Abbotsford",
+      "vin": "1V2FR2CAXSC535059",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/04d86a5d8f2d.html",
+      "condition": "new",
+      "price": 47480.0,
       "price_currency": "CAD"
     },
     {
@@ -1458,28 +1482,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Golf R ",
-      "vin": "WVWEB7CD4RW209274",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/d78d0643b51c.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "new",
-      "price": 46035.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taos ",
-      "vin": "3VVEX7B24RM062117",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/0ae9556bbd8b.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 26595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Volkswagen Tiguan ",
       "vin": "3VV2B7AX6RM123613",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/b5105d3430c3.html",
@@ -1642,28 +1644,6 @@
       "model": "Jetta",
       "condition": "used",
       "price": 27625.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2025 Volkswagen Taos Comfortlinein Abbotsford",
-      "vin": "3VVVC7B24SM025487",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/f75209926817.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 36720.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Atlas ",
-      "vin": "1V2FR2CAXSC535059",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/04d86a5d8f2d.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new",
-      "price": 52625.0,
       "price_currency": "CAD"
     },
     {
@@ -1946,7 +1926,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 34808.0,
+      "price": 36058.0,
       "price_currency": "CAD"
     },
     {
@@ -1957,7 +1937,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 34808.0,
+      "price": 36058.0,
       "price_currency": "CAD"
     },
     {
@@ -1990,7 +1970,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 34808.0,
+      "price": 36058.0,
       "price_currency": "CAD"
     },
     {
@@ -2089,7 +2069,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 40233.0,
+      "price": 40483.0,
       "price_currency": "CAD"
     },
     {
@@ -2100,7 +2080,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new",
-      "price": 40233.0,
+      "price": 40483.0,
       "price_currency": "CAD"
     },
     {
@@ -2190,14 +2170,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Tiguan ",
+      "name": "2027 Volkswagen Tiguanin Abbotsford",
       "vin": "3VVER7RM6VM002237",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/1caa766ad501.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Tiguanin Abbotsford",
       "condition": "new",
-      "price": 42845.0,
+      "price": 42293.0,
       "price_currency": "CAD"
     },
     {
@@ -2209,17 +2189,6 @@
       "model": "GLIin Abbotsford",
       "condition": "new",
       "price": 38095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Volkswagen GLIin Abbotsford",
-      "vin": "3VW2M7BU5VM004388",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/new/bd4a437add98.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "GLIin Abbotsford",
-      "condition": "new",
-      "price": 37095.0,
       "price_currency": "CAD"
     },
     {
@@ -2318,7 +2287,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "new",
-      "price": 39920.0,
+      "price": 42858.0,
       "price_currency": "CAD"
     },
     {
