@@ -1,7 +1,7 @@
 {
   "dealership": "Abbotsford Volkswagen",
-  "generated_at": "2026-11-17T23:17:18",
-  "vehicle_count": 226,
+  "generated_at": "2026-11-18T08:33:56",
+  "vehicle_count": 224,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -34,10 +34,26 @@
       "condition": "used"
     },
     {
+      "name": "Volkswagen Passat 2014 for salein Abbotsford",
+      "vin": "1VWCH7A33EC049073",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f6b14be386ca.html",
+      "condition": "used",
+      "price": 11890.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Wrangler 2015 for salein Abbotsford",
       "vin": "1C4BJWEG4FL627998",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/43e1b5967e4d.html",
       "condition": "used"
+    },
+    {
+      "name": "RAM 1500 2015 for salein Abbotsford",
+      "vin": "1C6RR7FTXFS693557",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/87f0654de245.html",
+      "condition": "used",
+      "price": 8800.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Hyundai Elantra 2016 for salein Abbotsford",
@@ -53,6 +69,22 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/cb0e0f839a3d.html",
       "condition": "used",
       "price": 6800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Renegade 2016 for salein Abbotsford",
+      "vin": "ZACCJBBT4GPD30595",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/5e39b6252e93.html",
+      "condition": "used",
+      "price": 10890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf 2016 for salein Abbotsford",
+      "vin": "3VW117AU9GM048175",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/c8ce06de51f6.html",
+      "condition": "used",
+      "price": 12911.0,
       "price_currency": "CAD"
     },
     {
@@ -75,6 +107,14 @@
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f00d96d850cb.html",
       "condition": "used",
       "price": 12890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Grand Caravan 2019 for salein Abbotsford",
+      "vin": "2C4RDGBG8KR794382",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/54e70c3f12e6.html",
+      "condition": "used",
+      "price": 16750.0,
       "price_currency": "CAD"
     },
     {
@@ -168,6 +208,14 @@
       "vin": "WA1L2AFZ0NP014248",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/7d19112d0a1b.html",
       "condition": "used"
+    },
+    {
+      "name": "Audi Q4 E-tron 2023 for salein Abbotsford",
+      "vin": "WA1L2AFZ2PP011032",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/56f63dbde1db.html",
+      "condition": "used",
+      "price": 33780.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Audi Q8 2023 for salein Abbotsford",
@@ -330,17 +378,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Nissan Kicks Play 2025 for salein Abbotsford",
-      "vin": "3N1CP5CV6SL483290",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/0a3cd29c949e.html",
-      "condition": "used"
-    },
-    {
       "name": "Nissan Rogue 2025 for salein Abbotsford",
       "vin": "JN8BT3BB9SW160575",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/8121ca427c1f.html",
       "condition": "used",
       "price": 26890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2025 for salein Abbotsford",
+      "vin": "1V2FR2CAXSC535059",
+      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/04d86a5d8f2d.html",
+      "condition": "used",
+      "price": 47480.0,
       "price_currency": "CAD"
     },
     {
@@ -388,14 +438,6 @@
       "vin": "3VW2M7BU6TM045223",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e370e175b7b6.html",
       "condition": "used"
-    },
-    {
-      "name": "Volkswagen Taos 2026 for salein Abbotsford",
-      "vin": "3VV4C7B20TM055731",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/9bffd9d85486.html",
-      "condition": "used",
-      "price": 35800.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Volkswagen Tiguan 2026 for salein Abbotsford",
@@ -463,17 +505,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Volkswagen Passat ",
-      "vin": "1VWCH7A33EC049073",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/f6b14be386ca.html",
-      "year": 2014,
-      "make": "Volkswagen",
-      "model": "Passat",
-      "condition": "used",
-      "price": 15895.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2015 RAM 1500 ST | BACKUP CAMERAin Abbotsford",
       "vin": "1C6RR7FTXFS693557",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/2427ad47c167.html",
@@ -482,17 +513,6 @@
       "model": "1500",
       "condition": "used",
       "price": 8800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 RAM 1500 ",
-      "vin": "1C6RR7FTXFS693557",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/87f0654de245.html",
-      "year": 2015,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 13035.0,
       "price_currency": "CAD"
     },
     {
@@ -529,17 +549,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Jeep Renegade ",
-      "vin": "ZACCJBBT4GPD30595",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/5e39b6252e93.html",
-      "year": 2016,
-      "make": "Jeep",
-      "model": "Renegade",
-      "condition": "used",
-      "price": 14725.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Volkswagen Golf Sin Abbotsford",
       "vin": "3VW117AU9GM048175",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/d0471ea52eb7.html",
@@ -547,29 +556,18 @@
       "make": "Volkswagen",
       "model": "Golf",
       "condition": "used",
-      "price": 15035.0,
+      "price": 12911.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Volkswagen Golf ",
-      "vin": "3VW117AU9GM048175",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/c8ce06de51f6.html",
-      "year": 2016,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "used",
-      "price": 15035.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Volkswagen Tiguanin Abbotsford",
+      "name": "2016 Volkswagen Tiguan | BACKUP CAMERA | HEATED SEATSin Abbotsford",
       "vin": "WVGJV7AX4GW587896",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/3c2f5f5cbd22.html",
       "year": 2016,
       "make": "Volkswagen",
-      "model": "Tiguanin Abbotsford",
+      "model": "Tiguan",
       "condition": "used",
-      "price": 10015.0,
+      "price": 6300.0,
       "price_currency": "CAD"
     },
     {
@@ -584,14 +582,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Jeep Compass Northin Abbotsford",
+      "name": "2017 Jeep Compass North | LEATHER SEATS | BACKUP CAMERAin Abbotsford",
       "vin": "3C4NJCBB5HT668491",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/cb76fc0c9d3d.html",
       "year": 2017,
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 15035.0,
+      "price": 10890.0,
       "price_currency": "CAD"
     },
     {
@@ -613,7 +611,7 @@
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 14035.0,
+      "price": 9890.0,
       "price_currency": "CAD"
     },
     {
@@ -716,14 +714,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Volkswagen Golfin Abbotsford",
+      "name": "2018 Volkswagen Golf | BACKUP CAMERAin Abbotsford",
       "vin": "3VWB17AU1JM289644",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/eaf342b595f2.html",
       "year": 2018,
       "make": "Volkswagen",
-      "model": "Golfin Abbotsford",
+      "model": "Golf",
       "condition": "used",
-      "price": 13625.0,
+      "price": 10380.0,
       "price_currency": "CAD"
     },
     {
@@ -746,17 +744,6 @@
       "model": "Grand Caravan",
       "condition": "used",
       "price": 16750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Dodge Grand Caravan ",
-      "vin": "2C4RDGBG4KR794380",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/54e70c3f12e6.html",
-      "year": 2019,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 21425.0,
       "price_currency": "CAD"
     },
     {
@@ -822,7 +809,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "used",
-      "price": 19625.0,
+      "price": 14480.0,
       "price_currency": "CAD"
     },
     {
@@ -848,14 +835,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Volkswagen Tiguan Highlinein Abbotsford",
+      "name": "2019 Volkswagen Tiguan Highline | DIGITAL COCKPIT | LEATHER SEATS | HEATED SEATSin Abbotsford",
       "vin": "3VV4B7AX0KM136565",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/e7c46cb6ac09.html",
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 18326.0,
+      "price": 15890.0,
       "price_currency": "CAD"
     },
     {
@@ -1184,17 +1171,6 @@
       "model": "Tiguan",
       "condition": "new",
       "price": 29325.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Audi Q4 e-tron ",
-      "vin": "WA1L2AFZ2PP011032",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/56f63dbde1db.html",
-      "year": 2023,
-      "make": "Audi",
-      "model": "Q4 e-tron",
-      "condition": "used",
-      "price": 39062.0,
       "price_currency": "CAD"
     },
     {
@@ -1625,25 +1601,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen Atlas ",
-      "vin": "1V2FR2CAXSC535059",
-      "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/04d86a5d8f2d.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 52625.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Jetta Trendlinein Abbotsford",
+      "name": "2025 Volkswagen Jetta Trendline | HEATED SEATS | BACKUP CAMERAin Abbotsford",
       "vin": "3VWCX7BU6SM080371",
       "url": "https://willyml1979-dotcom.github.io/abbotsford-volkswagen-mirror/used/5978966e7a87.html",
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "used",
-      "price": 27625.0,
+      "price": 22890.0,
       "price_currency": "CAD"
     },
     {
